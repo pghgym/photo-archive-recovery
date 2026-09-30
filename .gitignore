@@ -1,0 +1,9 @@
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.pptx
+recovered_images/
+downloaded_images/
+__pycache__/
+*.pyc
